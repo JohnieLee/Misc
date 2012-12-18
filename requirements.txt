@@ -1,0 +1,6 @@
+-e git+https://github.com/django-nonrel/django-nonrel.git@c68fd7ecc9882917d50c44e3bf1e07a8f183d7d5#egg=Django-dev
+-e git+https://github.com/amulree/dj-database-url-mongodb.git@572c2539588585861c04055b5eca5db031d450e2#egg=dj_database_url_mongodb-dev
+-e git+https://github.com/django-nonrel/mongodb-engine.git@52257b5d90dcfaa564e708264a9cfe591d301fe6#egg=django_mongodb_engine-dev
+djangotoolbox==0.9.2
+pymongo==2.4.1
+wsgiref==0.1.2
